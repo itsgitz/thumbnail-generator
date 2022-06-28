@@ -1,7 +1,12 @@
 # Thumbnail Generator
 
-A simple linux shell script for fenerate thumbnail from an input video. Before use this script, you have to
+A simple linux shell script for generate thumbnail from an input video. Before use this script, you have to
 install `ffmpeg` first.
+
+## Install FFMPEG on Ubuntu
+```sh
+$ sudo apt install ffmpeg
+```
 
 # Usage
 ```sh
